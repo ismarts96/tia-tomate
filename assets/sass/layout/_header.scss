@@ -1,0 +1,23 @@
+header {
+  background-color: $jellybean;
+  margin-top: 0;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  display: inline-block;
+  text-align: center;
+}
+
+.header__title {
+  font-family: $raleway;
+  color: $white;
+  font-size: $x-large;
+  font-weight: $extralight;
+}
+
+.header__subtitle {
+  font-family: $raleway;
+  color: $white;
+  font-size: $x-large;
+  font-weight: $bold;
+  text-transform: uppercase;
+}

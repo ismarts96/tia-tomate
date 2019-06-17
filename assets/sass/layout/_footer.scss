@@ -1,0 +1,9 @@
+.footer{
+  background-color: $granitegray;
+  padding: 3rem;
+  text-align: center;
+  &__logo{
+    width: 15%;
+    padding-bottom: 3rem;
+  }
+}

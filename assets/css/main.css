@@ -1,0 +1,218 @@
+body {
+  height: 100vh;
+  background-color: #fff;
+  box-sizing: cover;
+  background-position: 80%;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+header {
+  background-color: #e56353;
+  margin-top: 0;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  display: inline-block;
+  text-align: center;
+}
+
+.header__title {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 70px;
+  font-weight: 200;
+}
+
+.header__subtitle {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 70px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+nav {
+  background-color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+
+.nav__logo {
+  width: 300px;
+}
+
+.about1 {
+  background-color: #91918d;
+  padding-top: 3rem;
+  text-align: center;
+  padding-bottom: 3rem;
+  display: inline-block;
+}
+
+.about1__img {
+  width: 100%;
+}
+
+.about1__article {
+  width: 100%;
+  justify-content: center;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.about1__article--title {
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  padding: 1rem;
+}
+
+.about1__article--paragraph {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 200;
+  color: #fff;
+  padding-top: 1rem;
+  text-align: left;
+}
+
+.about2 {
+  padding-top: 5rem;
+  text-align: center;
+}
+
+.about2__img {
+  width: 100%;
+}
+
+.about2__article {
+  width: 100%;
+  justify-content: center;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.about2__article--title {
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  color: #686963;
+  padding: 1rem;
+}
+
+.about2__article--paragraph {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #686963;
+  padding-top: 1rem;
+  text-align: left;
+}
+
+.nosotros {
+  text-align: center;
+}
+.nosotros__block--jellybean {
+  background-color: #e56353;
+  padding: 7rem;
+}
+.nosotros__title {
+  text-align: center;
+  font-size: 100px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  color: #fff;
+}
+.nosotros__javiera {
+  margin-top: 6rem;
+}
+.nosotros__javiera--img {
+  width: 35rem;
+}
+.nosotros__javiera--title {
+  font-size: 50px;
+  color: #686963;
+  font-weight: 700;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.nosotros__javiera--paragraph {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+}
+.nosotros__roberto {
+  margin-top: 3rem;
+  padding-top: 2.5rem;
+  padding-bottom: 6rem;
+}
+.nosotros__roberto--img {
+  width: 35rem;
+}
+.nosotros__roberto--title {
+  font-size: 50px;
+  color: #686963;
+  font-weight: 700;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.nosotros__roberto--paragraph {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.contacto {
+  background-color: #e56353;
+  text-align: center;
+  padding: 5rem;
+}
+.contacto__title {
+  font-size: 70px;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 3rem;
+}
+.contacto__button {
+  width: 500px;
+  height: 100px;
+  border-radius: 50px;
+  font-size: 50px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #686963;
+  border-width: 1px;
+  border-color: #686963;
+}
+
+.footer {
+  background-color: #686963;
+  padding: 3rem;
+  text-align: center;
+}
+.footer__logo {
+  width: 15%;
+  padding-bottom: 3rem;
+}
+
+/*# sourceMappingURL=main.css.map */

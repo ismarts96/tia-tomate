@@ -1,0 +1,31 @@
+.about2 {
+  padding-top: 5rem;
+  text-align: center;
+}
+.about2__img {
+  width: 100%;
+}
+
+.about2__article{
+  width: 100%;
+  justify-content: center;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.about2__article--title {
+  font-family: $raleway;
+  font-size: $large;
+  font-weight: $bold;
+  color: $granitegray;
+  padding: 1rem;
+}
+
+.about2__article--paragraph{
+  font-family: $raleway;
+  font-size: $medium;
+  font-weight: $regular;
+  color: $granitegray;
+  padding-top: 1rem;
+  text-align: left;
+}

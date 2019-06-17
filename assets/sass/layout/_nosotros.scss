@@ -1,0 +1,54 @@
+.nosotros{
+  text-align: center;
+  &__block--jellybean{
+    background-color: $jellybean;
+    padding: 7rem;
+  }
+  &__title{
+    text-align: center;
+    font-size: $xx-large;
+    font-family: $raleway;
+    font-weight: $bold;
+    color: $white;
+  }
+  &__javiera{
+    margin-top: 6rem;
+  }
+  &__javiera--img{
+    width: 35rem;
+  }
+  &__javiera--title{
+    font-size: $large;
+    color: $granitegray;
+    font-weight: $bold;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+  &__javiera--paragraph{
+    font-family: $raleway;
+    font-size: $medium;
+    font-weight: $regular;
+    text-align: left;
+  }
+  &__roberto{
+    margin-top: 3rem;
+    padding-top: 2.5rem;
+    padding-bottom: 6rem;
+  }
+  &__roberto--img{
+    width: 35rem;
+  }
+  &__roberto--title{
+    font-size: $large;
+    color: $granitegray;
+    font-weight: $bold;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+  &__roberto--paragraph{
+    font-family: $raleway;
+    font-size: $medium;
+    font-weight: $regular;
+    text-align: left;
+  }
+}
